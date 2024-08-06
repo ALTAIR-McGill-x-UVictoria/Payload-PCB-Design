@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BQIGDEXC
 
 [Document3]
-DocumentPath=Schlib1.SchLib
+DocumentPath=Payload schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DERKPCHZ
 
 [Document4]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=Payload lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
