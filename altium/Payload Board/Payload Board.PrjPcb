@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OOEANMHA
 
 [Document2]
+DocumentPath=LEDs, and Motors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBVURVXK
+
+[Document3]
 DocumentPath=Battery Heating System.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTPCLDZA
 
-[Document3]
+[Document4]
 DocumentPath=Payload_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQIGDEXC
 
-[Document4]
+[Document5]
 DocumentPath=Payload schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DERKPCHZ
 
-[Document5]
+[Document6]
 DocumentPath=Payload lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TQJKYKWI
 
-[Document6]
+[Document7]
 DocumentPath=Payload Board.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
