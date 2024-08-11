@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LTPCLDZA
 
 [Document4]
+DocumentPath=Power Management.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OLZCTXPL
+
+[Document5]
 DocumentPath=Payload_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQIGDEXC
 
-[Document5]
+[Document6]
 DocumentPath=Payload schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DERKPCHZ
 
-[Document6]
+[Document7]
 DocumentPath=Payload lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TQJKYKWI
 
-[Document7]
+[Document8]
 DocumentPath=Payload Board.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
