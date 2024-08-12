@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OOEANMHA
 
 [Document2]
-DocumentPath=LEDs, and Motors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBVURVXK
-
-[Document3]
 DocumentPath=Battery Heating System.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,6 +82,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTPCLDZA
+
+[Document3]
+DocumentPath=..\..\..\..\..\..\..\Downloads\Payload-PCB-Design-main\Payload-PCB-Design-main\altium\Payload Board\LEDs, and Motors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBVURVXK
 
 [Document4]
 DocumentPath=Power Management.SchDoc
