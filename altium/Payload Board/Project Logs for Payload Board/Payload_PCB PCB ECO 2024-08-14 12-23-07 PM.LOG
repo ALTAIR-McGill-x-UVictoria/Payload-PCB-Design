@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR11_1 Pin=U2-33
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R7 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=R18 Old Comment=10K New Comment=10K0
+Change Component Comment : Designator=J3 Old Comment=436500728 New Comment=CONN HEADER VERT 7POS 3MM
+Added Pin To Net: NetName=NetR11_1 Pin=U2-19
