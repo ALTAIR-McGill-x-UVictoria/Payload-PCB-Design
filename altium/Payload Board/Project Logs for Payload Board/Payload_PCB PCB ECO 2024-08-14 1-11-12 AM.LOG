@@ -1,0 +1,184 @@
+Change Component DesignItemId : Designator=J4 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J6 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J7 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J8 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J9 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J10 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J11 Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN HEADER VERT 2POS 3MM New DesignItemId=0436500228
+Change Component Comment : Designator=J5 Old Comment=430450428 New Comment=CONN HEADER VERT 4POS 3MM
+Change Component Comment : Designator=J4 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J6 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J7 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J8 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J9 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J10 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J11 Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J? Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Comment : Designator=J? Old Comment=0436500228 New Comment=CONN HEADER VERT 2POS 3MM
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Added Component: Designator=Q3(AO3407A)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (Abs) (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "48mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feedback Cap-Max (Crss)"; Value = "90pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AO3407A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity/Channel Type"; Value = "P-CHANNEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation-Max (Abs)"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.31, 10=0.22, 100=0.1112, 500=0.09854, 1000=0.07668 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "856157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "785-1006-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(AO3407A)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (Abs) (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "48mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feedback Cap-Max (Crss)"; Value = "90pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AO3407A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity/Channel Type"; Value = "P-CHANNEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation-Max (Abs)"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.31, 10=0.22, 100=0.1112, 500=0.09854, 1000=0.07668 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "856157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "785-1006-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(AO3407A)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/ALOM/ALOMS01464/ALOMS01464-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940745.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/940/ao3407a-940747.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/18057/getdatasheetpartid-64436-18057110.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (Abs) (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (ID)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "48mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feedback Cap-Max (Crss)"; Value = "90pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AO3407A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity/Channel Type"; Value = "P-CHANNEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation-Max (Abs)"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.31, 10=0.22, 100=0.1112, 500=0.09854, 1000=0.07668 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "856157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "785-1006-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=J3-3
+Added Pin To Net: NetName=SCL Pin=J3-4
+Added Pin To Net: NetName=+3V3 Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=VIN3 Pin=Q3-2
+Added Pin To Net: NetName=NetJ9_1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=VIN1 Pin=Q4-2
+Added Pin To Net: NetName=NetJ10_1 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=VIN2 Pin=Q5-2
+Added Pin To Net: NetName=NetJ11_1 Pin=Q5-3
+Added Pin To Net: NetName=CS2 Pin=J3-1
+Added Pin To Net: NetName=CS2 Pin=U2-28
+Added Net: Name=CS2
+Added Pin To Net: NetName=NetU2_38 Pin=U2-38
+Added Pin To Net: NetName=NetU2_38 Pin=U8-3
+Added Net: Name=NetU2_38
+Added Pin To Net: NetName=PS Pin=J3-5
+Added Pin To Net: NetName=PS Pin=U2-4
+Added Net: Name=PS
+Added Pin To Net: NetName=SDO Pin=J3-2
+Added Pin To Net: NetName=SDO Pin=U2-5
+Added Net: Name=SDO
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component J1 CONN HEADER VERT 2POS 3MM
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component J2 CONN HEADER VERT 2POS 3MM
+Added Member To Class: ClassName=Power Management Member=Component Q3 AO3407A
+Added Member To Class: ClassName=Power Management Member=Component Q4 AO3407A
+Added Member To Class: ClassName=Power Management Member=Component Q5 AO3407A
