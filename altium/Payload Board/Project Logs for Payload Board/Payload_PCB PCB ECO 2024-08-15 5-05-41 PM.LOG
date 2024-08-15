@@ -1,0 +1,84 @@
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Added Component: Designator=P7(Testpoint)
+Add component (AddParameter): Name = "Body Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16318/m60-2p61-16318395.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16318/m60-2p61-16318395.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16885/70182998-16885945.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16885/70182998-16885945.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848437.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848437.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848438.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848438.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848439.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14848/m60-2p61-14848439.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.12300, 1000=0.12300, 2000=0.11700, 4000=0.11300, 6000=0.11000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "148000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "06W4636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IO14-1
+Add Pin To Net: Unknown Pin: Pin IO15-1
+Add Pin To Net: Unknown Pin: Pin IO16-1
+Add Pin To Net: Unknown Pin: Pin IO17-1
+Add Pin To Net: Unknown Pin: Pin IO18-1
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=IO1 Pin=U2-3
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=U2-4
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=U2-5
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=U2-7
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=U2-8
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=U2-9
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=U2-10
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=U2-11
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO9 Pin=U2-18
+Added Net: Name=IO9
+Added Pin To Net: NetName=IO10 Pin=U2-20
+Added Net: Name=IO10
+Added Pin To Net: NetName=IO11 Pin=U2-21
+Added Net: Name=IO11
+Added Pin To Net: NetName=IO12 Pin=U2-22
+Added Net: Name=IO12
+Add Class Member: Failed to add class member : Component IO2 I/O
+Add Class Member: Failed to add class member : Component IO3 I/O
+Add Class Member: Failed to add class member : Component IO4 I/O
+Add Class Member: Failed to add class member : Component IO5 I/O
+Add Class Member: Failed to add class member : Component IO6 I/O
+Add Class Member: Failed to add class member : Component IO7 I/O
+Add Class Member: Failed to add class member : Component IO8 I/O
+Add Class Member: Failed to add class member : Component IO9 I/O
+Add Class Member: Failed to add class member : Component IO10 I/O
+Add Class Member: Failed to add class member : Component IO11 I/O
+Add Class Member: Failed to add class member : Component IO12 I/O
+Add Class Member: Failed to add class member : Component IO13 I/O
+Add Class Member: Failed to add class member : Component IO14 I/O
+Add Class Member: Failed to add class member : Component IO15 I/O
+Add Class Member: Failed to add class member : Component IO16 I/O
+Add Class Member: Failed to add class member : Component IO17 I/O
+Add Class Member: Failed to add class member : Component IO18 I/O
+Added Member To Class: ClassName=Power Management Member=Component P9 Probe_5019

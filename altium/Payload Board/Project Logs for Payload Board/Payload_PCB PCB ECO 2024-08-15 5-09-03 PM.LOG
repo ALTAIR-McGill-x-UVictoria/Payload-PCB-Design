@@ -1,0 +1,51 @@
+Added Component: Designator=IO1(Pins)
+Added Component: Designator=IO2(Pins)
+Added Component: Designator=IO3(Pins)
+Added Component: Designator=IO4(Pins)
+Added Component: Designator=IO5(Pins)
+Added Component: Designator=IO6(Pins)
+Added Component: Designator=IO7(Pins)
+Added Component: Designator=IO8(Pins)
+Added Component: Designator=IO9(Pins)
+Added Component: Designator=IO10(Pins)
+Added Component: Designator=IO11(Pins)
+Added Component: Designator=IO12(Pins)
+Added Component: Designator=IO13(Pins)
+Added Component: Designator=IO14(Pins)
+Added Component: Designator=IO15(Pins)
+Added Component: Designator=IO16(Pins)
+Added Component: Designator=IO17(Pins)
+Added Pin To Net: NetName=IO1 Pin=IO1-1
+Added Pin To Net: NetName=IO2 Pin=IO2-1
+Added Pin To Net: NetName=IO3 Pin=IO3-1
+Added Pin To Net: NetName=IO4 Pin=IO4-1
+Added Pin To Net: NetName=IO5 Pin=IO5-1
+Added Pin To Net: NetName=IO6 Pin=IO6-1
+Added Pin To Net: NetName=IO7 Pin=IO7-1
+Added Pin To Net: NetName=IO8 Pin=IO8-1
+Added Pin To Net: NetName=IO9 Pin=IO9-1
+Added Pin To Net: NetName=IO10 Pin=IO10-1
+Added Pin To Net: NetName=IO11 Pin=IO11-1
+Added Pin To Net: NetName=IO12 Pin=IO12-1
+Added Pin To Net: NetName=SDA Pin=IO13-1
+Added Pin To Net: NetName=SCL Pin=IO14-1
+Added Pin To Net: NetName=MOSI Pin=IO15-1
+Added Pin To Net: NetName=MISO Pin=IO16-1
+Added Pin To Net: NetName=SCK Pin=IO17-1
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO1 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO2 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO3 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO4 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO5 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO6 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO7 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO8 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO9 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO10 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO11 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO12 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO13 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO14 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO15 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO16 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO17 I/O
