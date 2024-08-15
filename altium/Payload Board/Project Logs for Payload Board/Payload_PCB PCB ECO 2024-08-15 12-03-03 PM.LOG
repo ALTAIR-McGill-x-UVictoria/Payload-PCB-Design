@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PS Pin=U2-4
+Removed Pin From Net: NetName=SDO Pin=U2-5
+Added Pin To Net: NetName=PS Pin=U2-16
+Added Pin To Net: NetName=SDO Pin=U2-17
