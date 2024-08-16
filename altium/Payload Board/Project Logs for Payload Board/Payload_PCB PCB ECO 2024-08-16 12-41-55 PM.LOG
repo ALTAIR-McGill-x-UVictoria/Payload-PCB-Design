@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IO5 Pin=IO5-1
+Removed Pin From Net: NetName=IO6 Pin=IO6-1
+Removed Pin From Net: NetName=IO7 Pin=IO7-1
+Added Pin To Net: NetName=GND Pin=IO5-1
+Added Pin To Net: NetName=+3V3 Pin=IO6-1
+Added Pin To Net: NetName=+5V Pin=IO7-1
