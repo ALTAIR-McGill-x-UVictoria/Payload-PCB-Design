@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=IO4 Pin=IO4-1
+Removed Pin From Net: NetName=SDA Pin=J3-3
+Removed Pin From Net: NetName=SCL Pin=J3-4
+Removed Pin From Net: NetName=+3V3 Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Pin From Net: NetName=IO9 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+3V3 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=SCK Pin=J3-4
+Added Pin To Net: NetName=MOSI Pin=J3-5
+Added Pin To Net: NetName=MISO Pin=J3-6
+Added Pin To Net: NetName=CS_2 Pin=J3-7
+Added Pin To Net: NetName=MOSI1 Pin=IO3-1
+Added Pin To Net: NetName=MOSI1 Pin=U2-18
+Added Net: Name=MOSI1
+Added Pin To Net: NetName=SCK1 Pin=IO4-1
+Added Pin To Net: NetName=SCK1 Pin=U2-19
+Added Net: Name=SCK1
