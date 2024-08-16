@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-44
+Removed Pin From Net: NetName=NetR17_2 Pin=U2-45
+Change Component Designator: OldDesignator=28 NewDesignator=IO10
+Change Component Designator: OldDesignator=29 NewDesignator=IO11
+Change Component Designator: OldDesignator=GND NewDesignator=P7
+Change Component Designator: OldDesignator=MISO NewDesignator=IO16
+Change Component Designator: OldDesignator=MOSI NewDesignator=IO15
+Change Component Designator: OldDesignator=SCK NewDesignator=IO17
+Added Pin To Net: NetName=NetR17_2 Pin=U2-44
+Added Pin To Net: NetName=NetR6_1 Pin=U2-45
+Added Member To Class: ClassName=Power Management Member=Component J10 CONN HEADER VERT 2POS 3MM
