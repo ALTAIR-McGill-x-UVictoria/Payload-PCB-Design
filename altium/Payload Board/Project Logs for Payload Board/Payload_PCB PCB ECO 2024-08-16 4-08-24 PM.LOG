@@ -1,0 +1,7 @@
+Added Component: Designator=IO22(Pins)
+Added Component: Designator=IO23(Pins)
+Added Pin To Net: NetName=+5V Pin=IO22-1
+Added Pin To Net: NetName=GND Pin=IO23-1
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO19 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO22 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO23 I/O

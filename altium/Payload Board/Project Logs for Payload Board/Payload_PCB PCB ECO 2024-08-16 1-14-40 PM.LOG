@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=IO5 NewDesignator=IO7
+Change Component Designator: OldDesignator=IO6 NewDesignator=IO8
+Change Component Designator: OldDesignator=IO7 NewDesignator=IO5
+Change Component Designator: OldDesignator=IO8 NewDesignator=IO6
+Change Component Designator: OldDesignator=IO11 NewDesignator=IO17
+Change Component Designator: OldDesignator=IO12 NewDesignator=IO18
+Change Component Designator: OldDesignator=IO13 NewDesignator=IO11
+Change Component Designator: OldDesignator=IO14 NewDesignator=IO12
+Added Component: Designator=IO13(Pins)
+Added Component: Designator=IO14(Pins)
+Added Component: Designator=IO15(Pins)
+Added Component: Designator=IO16(Pins)
+Added Component: Designator=IO19(Pins)
+Added Component: Designator=IO20(Pins)
+Added Component: Designator=IO21(Pins)
+Added Component: Designator=IO22(Pins)
+Added Pin To Net: NetName=IO1 Pin=IO13-1
+Added Pin To Net: NetName=IO2 Pin=IO14-1
+Added Pin To Net: NetName=IO3 Pin=IO15-1
+Added Pin To Net: NetName=IO4 Pin=IO16-1
+Added Pin To Net: NetName=IO5 Pin=IO17-1
+Added Pin To Net: NetName=IO6 Pin=IO18-1
+Added Pin To Net: NetName=IO7 Pin=IO19-1
+Added Pin To Net: NetName=RX7 Pin=IO20-1
+Added Pin To Net: NetName=TX7 Pin=IO21-1
+Added Pin To Net: NetName=IO10 Pin=IO22-1
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO15 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO16 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO17 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO18 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO19 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO20 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO21 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO22 I/O

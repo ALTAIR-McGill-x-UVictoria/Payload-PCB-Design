@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IO7 Pin=U2-16
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO7 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO8 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO13 I/O
+Added Member To Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=Component IO14 I/O
