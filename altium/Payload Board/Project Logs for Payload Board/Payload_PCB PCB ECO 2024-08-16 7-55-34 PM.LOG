@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=RX7 Pin=IO20-1
+Removed Pin From Net: NetName=TX7 Pin=IO21-1
+Removed Pin From Net: NetName=VIN2 Pin=IO22-1
+Removed Pin From Net: NetName=GND Pin=IO23-1
+Removed Member From Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=IO20
+Removed Member From Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=IO21
+Removed Member From Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=IO22
+Removed Member From Class: ClassName=MCU, Radios, and Sensors,SchDoc Member=IO23
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J10
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Change Component Designator: OldDesignator=J11 NewDesignator=J12
+Change Component Designator: OldDesignator=J12 NewDesignator=J13
+Added Component: Designator=J4(4 Pin Male Header)
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=RX7 Pin=J4-2
+Added Pin To Net: NetName=TX7 Pin=J4-3
+Added Pin To Net: NetName=VIN2 Pin=J4-4
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ7_2
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ7_2 New Net Name=NetJ8_2
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ8_2 New Net Name=NetJ9_2
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=NetJ13_1
+Change Class Name : Old Net Name=MCU, Radios, and Sensors,SchDoc New Net Name=MCU, Radios, and Sensors
+Added Member To Class: ClassName=MCU, Radios, and Sensors Member=Component J4 4 pin male header
