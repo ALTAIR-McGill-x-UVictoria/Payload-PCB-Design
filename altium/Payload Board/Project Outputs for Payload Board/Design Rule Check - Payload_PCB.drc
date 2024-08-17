@@ -1,7 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\rajan\OneDrive\Desktop\ALTAIR Project - McGill X UVictoria\PCB Design\Payload-PCB-Design\altium\Payload Board\Payload_PCB.PcbDoc
 Date     : 2024-08-16
-Time     : 4:40:41 PM
+Time     : 10:04:27 PM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L02_P003 In net GND On L2 - GND
+   Polygon named: NONET_L03_P004 In net GND On L3 - GND
+   Polygon named: NONET_L01_P021 In net GND On L1 - Top Layer
+   Polygon named: NONET_L04_P006 In net GND On L4 - Bottom Layer
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -16,7 +22,11 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P021) on L1 - Top Layer 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P003) on L2 - GND 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L03_P004) on L3 - GND 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P006) on L4 - Bottom Layer 
+Rule Violations :4
 
 Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)
 Rule Violations :0
@@ -129,7 +139,11 @@ Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
 Rule Violations :86
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (5.513mil < 10mil) Between Text "RX7" (3069.142mil,3358mil) on Top Overlay And Track (2925mil,3410mil)(3400mil,3410mil) on Top Overlay Silk Text to Silk Clearance [5.513mil]
+   Violation between Silk To Silk Clearance Constraint: (5.513mil < 10mil) Between Text "TX7" (3198mil,3358mil) on Top Overlay And Track (2925mil,3410mil)(3400mil,3410mil) on Top Overlay Silk Text to Silk Clearance [5.513mil]
+   Violation between Silk To Silk Clearance Constraint: (6.5mil < 10mil) Between Text "VIN" (2938mil,3358mil) on Top Overlay And Track (2925mil,3225mil)(2925mil,3410mil) on Top Overlay Silk Text to Silk Clearance [6.5mil]
+   Violation between Silk To Silk Clearance Constraint: (5.513mil < 10mil) Between Text "VIN" (2938mil,3358mil) on Top Overlay And Track (2925mil,3410mil)(3400mil,3410mil) on Top Overlay Silk Text to Silk Clearance [5.513mil]
+Rule Violations :4
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -141,6 +155,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 86
+Violations Detected : 94
 Waived Violations : 0
 Time Elapsed        : 00:00:01
